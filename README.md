@@ -1,4 +1,4 @@
-![alt text](https://github.com/curtcodes/curtcodes/blob/main/header.png?raw=true)
+![alt text](https://github.com/curt-codes/curt-codes/blob/main/header.png?raw=true)
 
 ## Hi there 👋
 - 👯 I’m looking to collaborate on small projects.
