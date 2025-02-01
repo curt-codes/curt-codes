@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 👯 I’m looking to collaborate on small projects.
+- - 📫 How to reach me: Discord @curtcodes
+- - 💬 Ask me about: JavaScript, Swift, C/C++, Python, anything really...
 <!--
 **curt-codes/curt-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
