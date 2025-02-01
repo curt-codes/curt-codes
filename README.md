@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on small projects.
 - - 📫 How to reach me: Discord @curtcodes
 - - 💬 Ask me about: JavaScript, Swift, C/C++, Python, anything really...
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=curt-codes)](https://git.io/streak-stats)
 <!--
 **curt-codes/curt-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
