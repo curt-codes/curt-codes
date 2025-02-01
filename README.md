@@ -1,3 +1,5 @@
+![alt text](https://github.com/curtcodes/curtcodes/blob/main/header.png?raw=true)
+
 ## Hi there 👋
 - 👯 I’m looking to collaborate on small projects.
 - - 📫 How to reach me: Discord @curtcodes
