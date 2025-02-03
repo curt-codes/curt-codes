@@ -6,7 +6,7 @@
 - - 💬 Ask me about: JavaScript, Swift, C/C++, Python, anything really...
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curt-codes)](https://github.com/anuraghazra/github-readme-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dghalbr&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=curt-codes&theme=dark)](https://git.io/streak-stats)
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
