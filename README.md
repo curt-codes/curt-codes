@@ -7,8 +7,6 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curt-codes)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=curt-codes&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=dghalbr&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
