@@ -4,7 +4,8 @@
 - 👯 I’m looking to collaborate on small projects.
 - - 📫 How to reach me: Discord @curtcodes
 - - 💬 Ask me about: JavaScript, Swift, C/C++, Python, anything really...
-
+- - I will try to post some more public repos when I can!
+  - 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curt-codes)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=curt-codes&theme=dark)](https://git.io/streak-stats)
 
